@@ -1,3 +1,5 @@
 # Quote
 ANDROID STUDIO
-ConstraintLayout|TextView|
+Simple|ConstraintLayout|TextView|
+
+*APK is the Release section*
